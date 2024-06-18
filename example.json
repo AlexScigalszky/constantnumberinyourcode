@@ -3,13 +3,13 @@
   "info": {
     "version": "1.0.0",
     "title": "Swagger Petstore",
-    "description": "(removed)",
+    "description": "a description",
     "termsOfService": "http://swagger.io/terms/",
     "contact": {
-      "name": "Swagger API Team (a new name)"
+      "name": "Swagger API Team"
     },
     "license": {
-      "name": "MIT (changed)"
+      "name": "MIT"
     }
   },
   "host": "petstore.swagger.io",
