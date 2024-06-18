@@ -59,6 +59,9 @@
         "name": {
           "type": "string"
         },
+        "age": {
+          "type": "integer"
+        },
         "tag": {
           "type": "string"
         }
