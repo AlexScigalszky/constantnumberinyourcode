@@ -26,7 +26,7 @@
   "paths": {
     "/pets": {
       "get": {
-        "description": "Returns all pets from the system that the user has access to.",
+        "description": "Returns all pets from the system that the user has access to",
         "produces": [
           "application/json"
         ],
